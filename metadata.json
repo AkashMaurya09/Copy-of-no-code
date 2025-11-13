@@ -1,0 +1,5 @@
+{
+  "name": "Copy of No Code builder Assignment",
+  "description": "An intelligent application that automates the process of grading exam answer sheets. Professors upload a grading rubric, and students upload their answer sheets. The AI provides detailed, step-by-step grading, feedback, and identifies areas for improvement, streamlining the evaluation process for educators and offering instant, transparent results for students.",
+  "requestFramePermissions": []
+}
